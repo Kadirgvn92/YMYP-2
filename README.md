@@ -1,4 +1,7 @@
-# YMYP-2 
+ # YMYP-2 :muscle:
+
+<p align="center">  <img src="https://media.licdn.com/dms/image/C4D0BAQGVQ_oWxIl0Ow/company-logo_200_200/0/1625607566402?e=2147483647&v=beta&t=nZzCcUbdRzx5G6_m-vvDR6gFKfVfhrqFNcBdLAGm-dI" alt="Resim Açıklaması"></p>
+
 - We made a project about variables, access identifiers, naming standarts.
 - _ChatUIConsoleApp_ : We did some simple Console writing methods and basic If method but I am sure you like it.
 - _NumberGuessingGameConsoleApp_ : We did while loop, if-else conditions. this is really good experience for me.
